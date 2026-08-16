@@ -3,5 +3,11 @@
   "private": true,
   "scripts": {
     "main": "tsx main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0"
+  },
+  "dependencies": {
+    "tsx": "^4.23.12"
   }
 }

@@ -1,0 +1,7 @@
+venv
+*.DS_Store
+json*
+embeddings*
+node_modules
+db*
+__pycache__*
