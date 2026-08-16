@@ -1,0 +1,7 @@
+{
+  "name": "job",
+  "private": true,
+  "scripts": {
+    "main": "tsx main.ts"
+  }
+}
